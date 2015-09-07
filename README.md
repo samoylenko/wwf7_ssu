@@ -1,5 +1,4 @@
-2003 - WebWiz Forum v7 change any message bug  
-I discovered it and created this PoC  
-The forum was used internally and externally by Stavropol State University
+2003 - Discovered WebWiz Forum v7 and v6 change any message bug
+PoC for Stavropol State University which was using this forum at it's official web site
 
 ![Screenshot](/_screenshots/1.png)
